@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Triangle Imp.cpp
+C:\Users\nicho\OneDrive\Documents\Programming 2\A06 - Triangle Class\Triangle Imp.cpp(27,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\nicho\OneDrive\Documents\Programming 2\A06 - Triangle Class\Triangle Imp.cpp(68): warning C4715: 'Triangle::setOpposite': not all control paths return a value
+C:\Users\nicho\OneDrive\Documents\Programming 2\A06 - Triangle Class\Triangle Imp.cpp(53): warning C4715: 'Triangle::setAdjacent': not all control paths return a value
+  A06 - Triangle Class.vcxproj -> C:\Users\nicho\OneDrive\Documents\Programming 2\A06 - Triangle Class\Debug\A06 - Triangle Class.exe
