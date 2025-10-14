@@ -1,0 +1,12 @@
+﻿  Driver.cpp
+  Code.cpp
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(10,14): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(11,14): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(12,12): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(71,22): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(72,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(42): warning C4715: 'StopWatch::Start': not all control paths return a value
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(63): warning C4715: 'StopWatch::isTicking': not all control paths return a value
+C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Code.cpp(53): warning C4715: 'StopWatch::Stop': not all control paths return a value
+  A10 - Stopwatch Class.vcxproj -> C:\Users\nicho\OneDrive\Documents\Programming 2\A10 - Stopwatch Class\Debug\A10 - Stopwatch Class.exe
