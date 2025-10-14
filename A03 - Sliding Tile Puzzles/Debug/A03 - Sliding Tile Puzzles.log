@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nicho\OneDrive\Documents\Programming 2\A03 - Sliding Tile Puzzles\Source.cpp(171): warning C4715: 'recieveUserInput': not all control paths return a value
+C:\Users\nicho\OneDrive\Documents\Programming 2\A03 - Sliding Tile Puzzles\Source.cpp(216): warning C4715: 'legalMove': not all control paths return a value
+  A03 - Sliding Tile Puzzles.vcxproj -> C:\Users\nicho\OneDrive\Documents\Programming 2\A03 - Sliding Tile Puzzles\Debug\A03 - Sliding Tile Puzzles.exe
